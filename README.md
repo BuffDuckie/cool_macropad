@@ -3,16 +3,16 @@ Hi! I didn't really give this macropad a cool name like DuckiePad and just calle
 
 # Schematic
 Here's the schematic of my macropad. Shouldn't be anything too crazy. For more info, you can view the file under the PCB folder.
-![alt text](image-1.png)
+![Schematic](Assets/image-1.png)
 
 # PCB
 Here's the PCB. The routing probably could have been more optimal as I mostly used KiCad's autorouter, but the PCB is 100 x 100mm and everything (at least electrically) works.
-![alt text](image-2.png)
+![PCB](Assets/image-2.png)
 
 # CAD
 I used OnShape for the 3D design instead of Fusion360, but everything still turned out okay. I attached a screenshot of the completed case, and a screenshot of an exploded view.
-![alt text](image-3.png)
-![alt text](image-4.png)
+![Assembled Case](Assets/image-3.png)
+![Exploded Case](Assets/image-4.png)
 
 # Bill of Materials 
 This macropad contains:
