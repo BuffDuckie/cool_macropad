@@ -16,11 +16,11 @@ I used OnShape for the 3D design instead of Fusion360, but everything still turn
 
 # Bill of Materials 
 This macropad contains:
-1x EC11 Rotary Encoder
-1x XIAO RP2040
-8x Cherry MX Switches
-8x DSA Keycaps
-4x SK6812 MINI-E LEDs
-4x M3x16mm screws
-4x M3x5mx4mm heatset inserts
-1x case (2 parts)
+1x EC11 Rotary Encoder\n
+1x XIAO RP2040\n
+8x Cherry MX Switches\n
+8x DSA Keycaps\n
+4x SK6812 MINI-E LEDs\n
+4x M3x16mm screws\n
+4x M3x5mx4mm heatset inserts\n
+1x case (2 parts)\n
