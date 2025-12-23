@@ -10,9 +10,10 @@ Here's the PCB. The routing probably could have been more optimal as I mostly us
 ![PCB](Assets/image-2.png)
 
 # CAD
-I used OnShape for the 3D design instead of Fusion360, but everything still turned out okay. I attached a screenshot of the completed case, and a screenshot of an exploded view.
+I used OnShape for the 3D design instead of Fusion360, but everything still turned out okay. I attached a screenshot of the completed case, and a screenshot of an exploded view. The blank rectangle will be my PCB and has the same dimensions. The third sceenshot is a combined model view of my case and PCB, showing that my case will actually be able to fit my PCB.
 ![Assembled Case](Assets/image-3.png)
 ![Exploded Case](Assets/image-4.png)
+![Combined Model](Assets/image.png)
 
 # Bill of Materials 
 This macropad contains:
